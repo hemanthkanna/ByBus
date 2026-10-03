@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a mobile-first application designed to meet user prompts, enhancing accessibility and usability for on-the-go users across devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
